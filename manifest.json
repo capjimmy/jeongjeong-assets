@@ -1,0 +1,56 @@
+{
+  "version": "20260604",
+  "updated": "2026-06-04",
+  "description": "적정온도/설정온도 상세페이지 동적 자산 매니페스트",
+  "raw_base": "https://raw.githubusercontent.com/capjimmy/jeongjeong-assets/main",
+  "pages_base": "https://capjimmy.github.io/jeongjeong-assets",
+  "stores": {
+    "jeongjeong": {
+      "name": "적정온도 (린나이 전문)",
+      "store_url": "https://smartstore.naver.com/jeongjeong-ondo",
+      "recommend": [
+        {
+          "model": "RC610-15KF",
+          "name": "린나이 RC610-15KF (이전 모델)",
+          "price": "580,000원",
+          "rating": "4.86",
+          "review_count": "1464",
+          "image": "recommend/jeongjeong/rc610.jpg",
+          "url_placeholder": "https://smartstore.naver.com/jeongjeong-ondo/products/PRODUCT_ID_HERE"
+        },
+        {
+          "model": "RC620-30KF",
+          "name": "RC620-30KF (대형 평수)",
+          "price": "950,000원",
+          "rating": "4.85",
+          "review_count": "150+",
+          "image": "recommend/jeongjeong/rc620-30kf.jpg",
+          "url_placeholder": "https://smartstore.naver.com/jeongjeong-ondo/products/PRODUCT_ID_HERE"
+        },
+        {
+          "model": "RUB6200",
+          "name": "RUB6200 (프리미엄 울트라버블)",
+          "price": "1,250,000원",
+          "rating": "4.92",
+          "review_count": "85+",
+          "image": "recommend/jeongjeong/rub6200.jpg",
+          "url_placeholder": "https://smartstore.naver.com/jeongjeong-ondo/products/PRODUCT_ID_HERE"
+        },
+        {
+          "model": "MANIFOLD",
+          "name": "적정온도 분배기 / 각방제어",
+          "price": "120,000원~",
+          "rating": "4.85",
+          "review_count": "30+",
+          "image": "recommend/jeongjeong/manifold.jpg",
+          "url_placeholder": "https://smartstore.naver.com/jeongjeong-ondo/products/PRODUCT_ID_HERE"
+        }
+      ]
+    },
+    "seoljeong": {
+      "name": "설정온도 (모든 보일러 전문)",
+      "store_url": "https://smartstore.naver.com/seoljeong-ondo",
+      "recommend": []
+    }
+  }
+}
